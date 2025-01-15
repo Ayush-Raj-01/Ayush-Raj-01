@@ -1,17 +1,14 @@
-## Hi 👋, I'm Ayush Raj
+<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
+<p align="center">Welcome to my GitHub profile! I’m a passionate web developer. I’m always brewing up new ideas and solutions.</p>
 
-<!--
-**Ayush-Raj-01/Ayush-Raj-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Full-Stack Development** and **Java**.
+- 📫 How to reach me: **ayussshhraj@gmail.com**
+<br> <br>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="center">
+<br><br> </p>
 
-- 🔭 I’m currently working on -->
-Welcome to my GitHub profile! I’m a passionate web developer. I’m always brewing up new ideas and solutions.
-
-- 🌱 I’m currently learning Full-Stack Development and Java.
-- 📫 How to reach me: ayussshhraj@gmail.com
-
-## 🌐 Connect with me:
+<h3 align="left">🌐 Connect with me:</h3>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayusssh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayussshh_07)
 
 # 💻 Tech Stack:
