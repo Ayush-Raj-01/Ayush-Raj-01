@@ -8,7 +8,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="center">
 <br><br> </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
+##🌐 Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayusssh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayussshh_07)
 
 # 💻 Tech Stack:
